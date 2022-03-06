@@ -1,0 +1,87 @@
+body{
+    background-color: aliceblue;
+}
+.navigation1{
+    display: inline-block;
+    margin-left: 40px;
+    width: auto;
+    margin-top: 20px;
+
+}
+
+.navigation2{
+    float: right;
+    display: inline-block;
+    padding-right: 100px; 
+
+}
+
+.navigation2 >p{
+    display: inline-block;
+    padding: 25px;
+}
+
+.navigation2 > button{
+    padding: 10px;
+    border-radius: 5px;
+    border-style: none;
+    background-color: rgb(159, 240, 9);
+}
+
+.personal_detail{
+    margin-left: 40px;
+    display: inline-block;
+
+}
+
+.name{
+    color: rgb(161, 233, 47);
+}
+
+.special{
+    color: rgb(238, 119, 9);
+}
+
+.search-section > p{
+    display: inline-block;
+    margin-left: 20px;
+    margin-top: 30px;
+}
+
+.search-section > button{
+    padding: 10px;
+    border-radius: 5px;
+    border-style: none;
+    background-color: rgb(24, 175, 150);
+    margin-left: 40px;
+}
+
+.image_box{
+    width: 45%;
+    position: relative;
+    margin-top: -250px;
+    float: right;
+    margin-right: 100px;
+}
+
+.image{
+    position: relative;
+    width: 300px;
+    height: 400px;
+    border-radius: 50px;  
+    float: right;
+}
+
+.fav_icon{
+    position: fixed;
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    margin-top: -20px;
+    margin-left: 10px;
+}
+
+.section_details{
+    width: 50%;
+    float: left;
+} 

@@ -1,0 +1,22 @@
+.main-table{
+    border: 2px solid rgba(165, 73, 73, 0.500);
+    text-align: center;
+    width: 300px;
+    margin: 120px 350px 320px 600px;
+    background-color: beige;
+    height: 380px;
+    border-radius: 10px;
+}
+input{
+    padding:40px 55px 30px 55px;
+    text-align: center;
+}
+button{
+    text-align: center;
+    width: 40px;
+    height: 40px;
+    border-radius: 6px;
+}
+.row1{
+    background-color: rgba(200, 20, 193, 0.430);
+}
