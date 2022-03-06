@@ -1,0 +1,74 @@
+.main{
+
+    width: 35%;
+    margin: auto;
+}
+
+.text_area{
+    display: block;
+    width: auto;
+    height: 160px;
+    background-color: gainsboro;
+}
+
+.input{
+    position: fixed;
+    color: black;
+    font-size: larger;
+    float: right;
+    margin-top: 100px;
+    margin-left: 435px;
+
+}
+
+.result{
+    position: fixed;
+    color: black;
+    float: right;
+    margin-top: 110px;
+    margin-left: 432px;
+    font-size: x-large;
+
+}
+
+.task{
+    background-color: lightgreen;
+    width: 115px;
+    height: 35px;
+    border-color: aqua;
+    font-size: x-large;
+
+}
+
+.task:active{
+    background-color: blue;
+}
+
+.number{
+    background-color: grey;
+    width: 115px;
+    height: 35px;
+    color: white;
+    border-color: aqua;
+    font-size: x-large;
+
+}
+.number:active{
+    background-color: antiquewhite;
+}
+.special{
+    width: 234px;
+    height: 35px;
+    background-color: lightgreen;
+    border-color: aqua;
+    font-size: x-large;
+}
+
+.special:active{
+    background-color: blueviolet;
+}
+
+h1{
+    text-align: center;
+    color: burlywood;
+} 
